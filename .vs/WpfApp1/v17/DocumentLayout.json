@@ -1,0 +1,659 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\services\\machinesstatus\\machinestatusservicemock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\machinesstatus\\machinestatusservicemock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\services\\machinesstatus\\machinestatusservicejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\machinesstatus\\machinestatusservicejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\exceptions\\customclientexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\exceptions\\customclientexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\extensions\\machineviewmodelextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\extensions\\machineviewmodelextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\misc\\statusoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\misc\\statusoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\misc\\statuscomboboxoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\misc\\statuscomboboxoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\misc\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\misc\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\models\\machinefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\machinefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\models\\machinestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\machinestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\validations\\machinevalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\validations\\machinevalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\converters\\statusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\converters\\statusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\viewmodels\\machinelistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodels\\machinelistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\viewmodels\\machinemanagementvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodels\\machinemanagementvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\viewmodels\\machinestatusvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodels\\machinestatusvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\editpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\viewmodels\\observeableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodels\\observeableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\services\\dialogs\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\dialogs\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\services\\machinesstatus\\imachinestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\machinesstatus\\imachinestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\services\\operatorstatus\\statustranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\operatorstatus\\statustranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\services\\externalmachines\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\externalmachines\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\services\\externalmachines\\machinesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\externalmachines\\machinesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\services\\operatorstatus\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\operatorstatus\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\factories\\factoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\factories\\factoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\services\\dialogs\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\dialogs\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shayk\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|c:\\users\\shayk\\source\\repos\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shayk\\AppData\\Local\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\editpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\viewmodels\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodels\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|C:\\Users\\shayk\\source\\repos\\WpfApp1\\wpfapp1\\resourcedicionaries\\buttondictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E1DC80A-CF53-4A31-B81A-D46C850A427E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\resourcedicionaries\\buttondictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditPopup.xaml",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\EditPopup.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\EditPopup.xaml",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\EditPopup.xaml",
+              "RelativeToolTip": "WpfApp1\\EditPopup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T07:55:59.89Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditPopup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\EditPopup.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\EditPopup.xaml.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\EditPopup.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\EditPopup.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:56:36.876Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "WpfApp1\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:47:39.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomClientException.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Exceptions\\CustomClientException.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Exceptions\\CustomClientException.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Exceptions\\CustomClientException.cs",
+              "RelativeToolTip": "WpfApp1\\Exceptions\\CustomClientException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:11:37.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MachineStatusServiceJson.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\MachinesStatus\\MachineStatusServiceJson.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\MachinesStatus\\MachineStatusServiceJson.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\MachinesStatus\\MachineStatusServiceJson.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\MachinesStatus\\MachineStatusServiceJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:22:02.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MachineStatusServiceMock.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\MachinesStatus\\MachineStatusServiceMock.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\MachinesStatus\\MachineStatusServiceMock.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\MachinesStatus\\MachineStatusServiceMock.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\MachinesStatus\\MachineStatusServiceMock.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:36:29.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MachineViewModelExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Extensions\\MachineViewModelExtensions.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Extensions\\MachineViewModelExtensions.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Extensions\\MachineViewModelExtensions.cs",
+              "RelativeToolTip": "WpfApp1\\Extensions\\MachineViewModelExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:17:33.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusOption.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Misc\\StatusOption.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Misc\\StatusOption.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Misc\\StatusOption.cs",
+              "RelativeToolTip": "WpfApp1\\Misc\\StatusOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:18:55.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatusComboBoxOption.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Misc\\StatusComboBoxOption.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Misc\\StatusComboBoxOption.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Misc\\StatusComboBoxOption.cs",
+              "RelativeToolTip": "WpfApp1\\Misc\\StatusComboBoxOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:11:21.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Misc\\Constants.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Misc\\Constants.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Misc\\Constants.cs",
+              "RelativeToolTip": "WpfApp1\\Misc\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:35:13.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MachineFilter.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Models\\MachineFilter.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\MachineFilter.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Models\\MachineFilter.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\MachineFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:57:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MachineStatus.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Models\\MachineStatus.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\MachineStatus.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Models\\MachineStatus.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\MachineStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:37:19.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Models\\Machine.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Machine.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Models\\Machine.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Machine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:59:26.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MachineValidations.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Validations\\MachineValidations.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Validations\\MachineValidations.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Validations\\MachineValidations.cs",
+              "RelativeToolTip": "WpfApp1\\Validations\\MachineValidations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:41:08.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatusConverter.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Converters\\StatusConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Converters\\StatusConverter.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Converters\\StatusConverter.cs",
+              "RelativeToolTip": "WpfApp1\\Converters\\StatusConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:44:40.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MachineManagementVM.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\MachineManagementVM.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModels\\MachineManagementVM.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\MachineManagementVM.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModels\\MachineManagementVM.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:57:23.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MachineListVM.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\MachineListVM.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModels\\MachineListVM.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\MachineListVM.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModels\\MachineListVM.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:04:36.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MachineStatusVM.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\MachineStatusVM.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModels\\MachineStatusVM.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\MachineStatusVM.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModels\\MachineStatusVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:15:01.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\App.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:30:16.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ObserveableObject.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\ObserveableObject.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModels\\ObserveableObject.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\ObserveableObject.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModels\\ObserveableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:26:55.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainVM.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\MainVM.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModels\\MainVM.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\MainVM.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModels\\MainVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:29:50.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DialogService.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\Dialogs\\DialogService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\Dialogs\\DialogService.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\Dialogs\\DialogService.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\Dialogs\\DialogService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:58:43.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T17:30:15.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMachineStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\MachinesStatus\\IMachineStatusService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\MachinesStatus\\IMachineStatusService.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\MachinesStatus\\IMachineStatusService.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\MachinesStatus\\IMachineStatusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:02:22.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StatusTranslationService.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\OperatorStatus\\StatusTranslationService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\OperatorStatus\\StatusTranslationService.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\OperatorStatus\\StatusTranslationService.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\OperatorStatus\\StatusTranslationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:39:13.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MachinesService.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\ExternalMachines\\MachinesService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\ExternalMachines\\MachinesService.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\ExternalMachines\\MachinesService.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\ExternalMachines\\MachinesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:59:51.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMachineService.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\ExternalMachines\\IMachineService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\ExternalMachines\\IMachineService.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\ExternalMachines\\IMachineService.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\ExternalMachines\\IMachineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:18:36.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\OperatorStatus\\IStatusService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\OperatorStatus\\IStatusService.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\OperatorStatus\\IStatusService.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\OperatorStatus\\IStatusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:10:51.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FactoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Factories\\FactoryServices.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Factories\\FactoryServices.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Factories\\FactoryServices.cs",
+              "RelativeToolTip": "WpfApp1\\Factories\\FactoryServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4vxkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:06:19.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDialogService.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\Dialogs\\IDialogService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\Dialogs\\IDialogService.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\Services\\Dialogs\\IDialogService.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\Dialogs\\IDialogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:58:09.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\shayk\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAHgBAAAAAAAAAAAgwIgBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:51:03.571Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T17:25:25.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAawCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:25:25.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DefaultBinder.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\AppData\\Local\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs",
+              "ToolTip": "C:\\Users\\shayk\\AppData\\Local\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs [Read Only]",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAvwFEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:53:40.898Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:30:11.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WpfApp1",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T17:34:54.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModels\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ViewModels\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModels\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:36:29.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ButtonDictionary.xaml",
+              "DocumentMoniker": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ResourceDicionaries\\ButtonDictionary.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ResourceDicionaries\\ButtonDictionary.xaml",
+              "ToolTip": "C:\\Users\\shayk\\source\\repos\\WpfApp1\\WpfApp1\\ResourceDicionaries\\ButtonDictionary.xaml",
+              "RelativeToolTip": "WpfApp1\\ResourceDicionaries\\ButtonDictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T20:11:42.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

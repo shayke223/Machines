@@ -1,0 +1,102 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfApp1.ViewModels"
+        Title="Shay Maryuma" Height="800" Width="800"
+        WindowStartupLocation="CenterScreen">
+
+    <!--<Window.DataContext>
+        <local:MainViewModel />
+    </Window.DataContext>-->
+
+    <DockPanel>
+
+        <!-- Green Dock at the top -->
+        <Border DockPanel.Dock="Top" Height="50" Background="CadetBlue">
+            <TextBlock Text="Plasson" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="White" FontSize="16" FontWeight="Bold" Margin="5"/>
+        </Border>
+        <Grid Margin="10">
+
+            <!-- Define Rows and Columns -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <!-- Filter Section -->
+                <RowDefinition Height="Auto"/>
+                <!-- Buttons Section -->
+                <RowDefinition Height="*"/>
+                <!-- Machines List -->
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Filter Label -->
+            <TextBlock Text="Filter:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Margin="5"/>
+
+            <!-- ComboBox for Status Filter -->
+            <ComboBox ItemsSource="{Binding MachineListVM.Statuses}" 
+                  SelectedValue="{Binding MachineListVM.StatusFilter}" 
+                  DisplayMemberPath="DisplayName" 
+                  SelectedValuePath="Value"
+                  Grid.Row="0" Grid.Column="1"
+                  Margin="5"/>
+
+
+            <!-- Buttons -->
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="5">
+                <Button Content="Manual Refetch" Command="{Binding MachineListVM.GetMachinesCommand}" Margin="0,5,5,0"/>
+                <Button Content="Add Machine Status" Command="{Binding MachineListVM.AddMachinesCommand}"  Margin="5,5,5,0"/>
+            </StackPanel>
+
+
+            <!-- ScrollViewer for Machines List -->
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Grid.Row="2" Grid.ColumnSpan="2" Margin="5">
+                <WrapPanel HorizontalAlignment="Left">
+                    <!-- Machines as Cards -->
+                    <ItemsControl ItemsSource="{Binding MachineListVM.Machines}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="8" Padding="10" Margin="0,0,0,3" Background="White" HorizontalAlignment="Center" Width="740">
+                                    <StackPanel>
+                                        <!-- Machine Name -->
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Machine Name:" FontWeight="Bold" FontSize="12" Foreground="CadetBlue"/>
+                                            <TextBlock Text="{Binding MachineName}" Margin="5,0,0,0"/>
+                                        </StackPanel>
+
+                                        <!-- Description -->
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Description:" FontWeight="Bold" FontSize="12" />
+                                            <TextBlock Text="{Binding Description}" Margin="5,0,0,0"/>
+                                        </StackPanel>
+
+                                        <!-- Status -->
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Status:" FontWeight="Bold" FontSize="12"/>
+                                            <TextBlock Text="{Binding StatusText}" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                            <!--<Image Source="{Binding Status, Converter={StaticResource StatusConverter}}"/>-->
+                                            <Image Source="{Binding StatusImage}" Width="12" Height="12" Margin="5,0,0,0" />
+                                        </StackPanel>
+
+                                        <!-- Notes -->
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Notes:" FontWeight="Bold"/>
+                                            <TextBlock Text="{Binding Notes}" FontSize="12" Margin="5,0,0,0" />
+                                        </StackPanel>
+
+                                        <!-- Buttons -->
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                            <Button Content="Edit" Command="{Binding DataContext.MachineListVM.EditMachineCommand, RelativeSource={RelativeSource AncestorType=Window}}" CommandParameter="{Binding}" Margin="0,0,0,0"/>
+                                            <Button Content="Remove" Command="{Binding DataContext.MachineListVM.RemoveMachineCommand, RelativeSource={RelativeSource AncestorType=Window}}" CommandParameter="{Binding}"  Margin="5,0,0,0"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Border>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </WrapPanel>
+            </ScrollViewer>
+        </Grid>
+    </DockPanel>
+</Window>

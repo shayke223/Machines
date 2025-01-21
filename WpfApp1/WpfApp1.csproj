@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\idle.png" />
+    <None Remove="Assets\offline.png" />
+    <None Remove="Assets\running.png" />
+    <None Remove="Assets\unknown.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\idle.png" />
+    <Resource Include="Assets\offline.png" />
+    <Resource Include="Assets\running.png" />
+    <Resource Include="Assets\unknown.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
