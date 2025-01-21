@@ -2,24 +2,24 @@
   {
     "ID": 1,
     "MachineName": "Machine 7",
-    "Description": "dsa",
-    "Status": 30,
-    "Notes": null,
+    "Description": "Machine Description",
+    "Status": 10,
+    "Notes": "notes\r\nnotes notes notes\r\nnotes notes",
     "StatusImage": "Assets/offline.png"
   },
   {
     "ID": 2,
     "MachineName": "Machine 3",
-    "Description": "dsa",
-    "Status": 30,
+    "Description": "Test",
+    "Status": 20,
     "Notes": null,
     "StatusImage": "Assets/running.png"
   },
   {
     "ID": 3,
     "MachineName": "Machine 2",
-    "Description": "dsa",
-    "Status": 20,
+    "Description": "Another Test",
+    "Status": 30,
     "Notes": null,
     "StatusImage": "Assets/offline.png"
   }

@@ -91,6 +91,9 @@ namespace WpfApp1.Services.MachinesStatus
                 throw new CustomClientException("Machine not found.");
 
             machine.Status = machineToUpdate.Status;
+            machine.Notes = machineToUpdate.Notes;
+            machine.Description = machineToUpdate.Description;
+            
             await WriteMachineDataToFileAsync(machineList);  // Save to file
         }
 
