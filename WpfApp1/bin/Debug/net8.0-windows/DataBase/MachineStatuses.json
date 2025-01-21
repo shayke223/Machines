@@ -2,7 +2,7 @@
   {
     "ID": 1,
     "MachineName": "Machine 7",
-    "Description": "dsa",
+    "Description": "Machine TEST",
     "Status": 30,
     "Notes": null,
     "StatusImage": "Assets/offline.png"
@@ -10,7 +10,7 @@
   {
     "ID": 2,
     "MachineName": "Machine 3",
-    "Description": "dsa",
+    "Description": "Machine TEST 2",
     "Status": 30,
     "Notes": null,
     "StatusImage": "Assets/running.png"
@@ -18,7 +18,7 @@
   {
     "ID": 3,
     "MachineName": "Machine 2",
-    "Description": "dsa",
+    "Description": "Machine TEST 3",
     "Status": 20,
     "Notes": null,
     "StatusImage": "Assets/offline.png"
